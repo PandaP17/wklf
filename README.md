@@ -20,7 +20,7 @@ HOW TO USE
 COMMON QUESTIONS
 
 Q: Does this work on all Windows systems?
-A. Most new ones yes - I'd say XP and beyond. Possibly 98 and 95 but I doubt your target will be running that.
+A: Most new ones yes - I'd say XP and beyond. Possibly 98 and 95 but I doubt your target will be running that.
 
 Q: Does this work on both 32 and 64 bit?
 A: Yes. 
