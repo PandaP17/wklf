@@ -19,14 +19,14 @@ HOW TO USE
 --------------------------------------------------------------------
 COMMON QUESTIONS
 
-Q: Does this work on all Windows systems?
-A: Most new ones yes - I'd say XP and beyond. Possibly 98 and 95 but I doubt your target will be running that.
+Q. Does this work on all Windows systems?
+A. Most new ones yes - I'd say XP and beyond. Possibly 98 and 95 but I doubt your target will be running that.
 
-Q: Does this work on both 32 and 64 bit?
-A: Yes. 
+Q. Does this work on both 32 and 64 bit?
+A. Yes. 
 
-Q: Did you fully create everything here?
-A: **NO!** I don't want to be getting in any trouble for people assuming that I claim that I own LaZagne - AlessandroZ does. I only created a way for this to be portable and USB-Compatible.
+Q. Did you fully create everything here?
+A. **NO!** I don't want to be getting in any trouble for people assuming that I claim that I own LaZagne - AlessandroZ does. I only created a way for this to be portable and USB-Compatible.
 --------------------------------------------------------------------
 COMMON ERRORS
 
